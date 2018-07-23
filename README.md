@@ -1,8 +1,5 @@
 # EAI-Wallet For Android
 
-[![Build Status](https://travis-ci.org/TrustWallet/trust-wallet-android.svg?branch=master)](https://travis-ci.org/TrustWallet/trust-wallet-android)
-[![License](https://img.shields.io/badge/license-GPL3-green.svg?style=flat)](https://github.com/fastlane/fastlane/blob/master/LICENSE)
-
 EAI的官方钱包的Android版本，同时支持以太坊网络。
 
 ## 截图
