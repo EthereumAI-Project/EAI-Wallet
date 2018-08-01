@@ -11,7 +11,7 @@ import java.util.Map;
  * token exchanges.
  *
  * Examples:
- * - Trust wallet
+ * - EAI wallet
  * - HITBTC
  * - MEW
  * - JAXX

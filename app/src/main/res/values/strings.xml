@@ -157,7 +157,7 @@
     <string name="title_dialog_deposit">你希望怎么样购买?</string>
     <!-- Dialog messages-->
     <string name="dialog_message">输入密码加密钱包</string>
-    <string name="dialog_message_unrecoverable_message">If this device is replaced or this app is deleted, neither you nor Trust Wallet can recover your funds without a backup.</string>
+    <string name="dialog_message_unrecoverable_message">If this device is replaced or this app is deleted, neither you nor EAI Wallet can recover your funds without a backup.</string>
     <string name="toast_message_wallet_imported">The wallet was imported</string>
     <string name="toast_message_wallet_exported">A backup was created</string>
     <string name="toast_qr_code_no_address">QR code doesn\'t contain valid address</string>
